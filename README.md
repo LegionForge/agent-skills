@@ -1,15 +1,9 @@
-# lf-hermes-memory-addon
+# agent-skills
 
-A public Agent Skill for designing and maintaining a durable file-based memory system for agents and LLMs.
+This repository hosts Agent Skills under subdirectories.
 
-## Contents
-- `SKILL.md` — the skill entry point
-- `references/architecture.md` — supporting architecture notes
-- `LICENSE` — MIT license
-- `CONTRIBUTING.md` — contribution guidance
-
-## Use
-Install or copy this directory into your Agent Skills library, then load `lf-hermes-memory-addon` when you need a compact memory router and durable markdown-backed memory files.
+## Skills
+- `lf-hermes-memory-addon/` — durable file-based memory system for agents and LLMs
 
 ## License
-MIT
+MIT (see `LICENSE`)
